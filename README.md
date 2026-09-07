@@ -42,63 +42,6 @@
 
 <br><br>
 
-<!-- 03: ACTIVE RESEARCH & MISSIONS -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=%3C+ACTIVE+RESEARCH+%26+FRONTIERS+%2F%3E" alt="Projects Header" />
-
-  <br>
-
-  <!-- DYNAMIC PROJECT STATUS STREAM -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&pause=1200&color=00E5FF&center=true&vCenter=true&width=840&lines=**+SOLIS:+Solar+Flare+Forecasting+via+Neupert+Effect;**+BioSync-AI:+Closed-Loop+Agentic+Wearable+Patch;**+CIBB+2026:+Quantum-Enhanced+Conformational+Landscapes;**+RHIZO-NET:+Ten-Stage+Deep+Learning+%26+GNN+Phenotyping;**+Runtime+Slayers:+Leading+Deep-Tech+Hackathons" alt="Project Live Stream" />
-</div>
-
-<br><br>
-
-<!-- 04: SYSTEM TELEMETRY & STATS MATRIX (PERFECTLY ALIGNED) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=%3C+CORE+TELEMETRY+%26+METRICS+%2F%3E" alt="Metrics Header" />
-
-  <br><br>
-
-  <!-- LOCKED GRID: STATS (LEFT) & TOP LANGUAGES (RIGHT) -->
-  <table align="center" border="0" cellpadding="8" cellspacing="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=sepas1609&show_icons=true&hide_border=true&count_private=true&bg_color=09090B&title_color=00E5FF&text_color=F4F4F5&icon_color=FF007A" height="175" alt="GitHub General Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepas1609&layout=compact&hide_border=true&bg_color=09090B&title_color=FF007A&text_color=F4F4F5" height="175" alt="Top Languages Console" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <img src="https://streak-stats.demolab.com?user=sepas1609&hide_border=true&background=09090B&ring=00E5FF&fire=FF007A&currStreakNum=F4F4F5&sideNums=F4F4F5" height="165" alt="GitHub Streak Tracker" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br><br>
-
-<!-- 05: BIO-QUANTUM TELEMETRY CONSOLE & WAVEFORM MONITOR -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=%3C+BIO-QUANTUM+WAVEFORM+MONITOR+%2F%3E" alt="Telemetry Header" />
-
-  <br>
-
-  <!-- 100% URL-SAFE ASCII TERMINAL LOG / BOOT SEQUENCE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=800&color=FF007A&center=true&vCenter=true&width=840&height=60&lines=>>+SYSTEM+INITIALIZING+QUANTUM+CORE...+OK;>>+BIO-SYNC+ESP32+TELEMETRY+STREAM+ACTIVE;>>+SOLIS+NEUPERT+INDEX+STABLE...+AWAITING+DATA;>>+ROUTING+LIVE+WAVEFORM+DATA_+" alt="Terminal Logs" />
-
-  <br>
-
-  <!-- SIMULATED ANIMATED FREQUENCY WAVEFORM (REPLACES CRASHING ACTIVITY GRAPH) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:00E5FF,100:FF007A&height=120&section=footer&animation=twinkling" width="95%" alt="Animated Frequency Wave" />
-  
-  <!-- ASCII LIVE TELEMETRY DATA STREAM -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&pause=400&color=00E5FF&center=true&vCenter=true&width=840&height=40&lines=FLUX_CAPACITY:+%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F--+92%25;NEURAL_SYNC:+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D--------+55%25;SIGMA_WAVE:+_.-'~'-._.-'~'-._.-'~'-._;QUANTUM_ENTANGLEMENT:+COHERENCE+LOCKED" alt="ASCII Telemetry" />
-</div>
-
-<br><br>
 
 <!-- 06: FOOTER BANNER -->
 <div align="center">
