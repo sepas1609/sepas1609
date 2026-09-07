@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌌 Welcome to Boddu Saran's Digital Universe 🌌
 
-<!--
-**sepas1609/sepas1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Architecting Intelligent Bio-Systems & Exploring the Quantum Realm"* 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 My Core Arsenal
+* 🐍 **Languages:** Python, C++, R, MATLAB, TypeScript
+* 🔥 **AI & Deep Learning:** PyTorch, OpenCV, Graph Neural Networks
+* ⚙️ **Hardware & Robotics:** Arduino, Mechatronics, Bio-electronics
+* 🎨 **Tools:** React, Tailwind CSS, PostgreSQL, LaTeX, Docker
+
+---
+
+### 📈 Current Trends & Focus
+* 🌞 **Project SOLIS:** Solar flare forecasting system (Space-grade AI)
+* 🧬 **Bio-Sync-AI:** Adaptive Self-Healing Bioelectronic Skin Patches
+* ⚛️ **Quantum Computing:** Exploring quantum state transformations
+* 🏆 **Hackathons:** Runtime Slayers team lead (Web3SSH, INDIA RUNS)
+
+---
+*⚡ Keep exploring, keep building! ⚡*
