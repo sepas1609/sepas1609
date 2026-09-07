@@ -30,7 +30,7 @@
   <br>
 
   <!-- ANIMATED SKILL STREAM -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=1100&color=FF007A&center=true&vCenter=true&width=820&lines=[LANGUAGES]+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+R+%E2%80%A2+MATLAB+%E2%80%A2+TypeScript;[AI+%26+DEEP+LEARNING]+PyTorch+%E2%80%A2+GNNs+%E2%80%A2+Vision+Transformers;[QUANTUM+SYSTEMS]+Qiskit+%E2%80%A2+Variational+Circuits+%E2%80%A2+State+Vectors;[HARDWARE]+ESP32+%E2%80%A2+Arduino+%E2%80%A2+Bio-Wearables+%E2%80%A2+Mechatronics" alt="Skills Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=1100&color=FF007A&center=true&vCenter=true&width=820&lines=-+Languages:+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+R+%E2%80%A2+MATLAB+%E2%80%A2+TypeScript;-+AI+%26+Deep+Learning:+PyTorch+%E2%80%A2+GNNs+%E2%80%A2+Vision+Transformers;-+Quantum+Systems:+Qiskit+%E2%80%A2+Variational+Circuits+%E2%80%A2+State+Vectors;-+Hardware:+ESP32+%E2%80%A2+Arduino+%E2%80%A2+Bio-Wearables+%E2%80%A2+Mechatronics" alt="Skills Stream" />
 
   <br><br>
 
@@ -49,7 +49,7 @@
   <br>
 
   <!-- DYNAMIC PROJECT STATUS STREAM -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&pause=1200&color=00E5FF&center=true&vCenter=true&width=840&lines=[SOLIS]+Solar+Flare+Forecasting+via+Neupert+Effect;[BioSync-AI]+Closed-Loop+Agentic+Wearable+Patch;[CIBB+2026]+Quantum-Enhanced+Conformational+Landscapes;[RHIZO-NET]+Ten-Stage+Deep+Learning+%26+GNN+Phenotyping;[Runtime+Slayers]+Leading+Deep-Tech+Hackathons" alt="Project Live Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&pause=1200&color=00E5FF&center=true&vCenter=true&width=840&lines=**+SOLIS:+Solar+Flare+Forecasting+via+Neupert+Effect;**+BioSync-AI:+Closed-Loop+Agentic+Wearable+Patch;**+CIBB+2026:+Quantum-Enhanced+Conformational+Landscapes;**+RHIZO-NET:+Ten-Stage+Deep+Learning+%26+GNN+Phenotyping;**+Runtime+Slayers:+Leading+Deep-Tech+Hackathons" alt="Project Live Stream" />
 </div>
 
 <br><br>
@@ -86,16 +86,16 @@
 
   <br>
 
-  <!-- URL-SAFE ASCII TERMINAL LOG / BOOT SEQUENCE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&pause=800&color=FF007A&center=true&vCenter=true&width=840&height=60&lines=[SYSTEM]+INITIALIZING+QUANTUM+CORE...+[OK];[BIO-SYNC]+ESP32+TELEMETRY+STREAM+ACTIVE;[SOLIS]+NEUPERT+INDEX+STABLE...+AWAITING+DATA;[TERMINAL]+RENDERING+LIVE+CODE+WAVEFORM..._%E2%96%88" alt="Terminal Logs" />
+  <!-- 100% URL-SAFE ASCII TERMINAL LOG / BOOT SEQUENCE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=800&color=FF007A&center=true&vCenter=true&width=840&height=60&lines=>>+SYSTEM+INITIALIZING+QUANTUM+CORE...+OK;>>+BIO-SYNC+ESP32+TELEMETRY+STREAM+ACTIVE;>>+SOLIS+NEUPERT+INDEX+STABLE...+AWAITING+DATA;>>+ROUTING+LIVE+WAVEFORM+DATA_+" alt="Terminal Logs" />
 
   <br>
 
-  <!-- REAL-TIME WAVEFORM (ACTIVITY GRAPH) -->
-  <a href="https://github.com/sepas1609">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepas1609&hide_border=true&area=true&bg_color=09090B&color=00E5FF&line=FF007A&point=FFFFFF" width="95%" alt="Live Waveform Monitor" />
-  </a>
+  <!-- SIMULATED ANIMATED FREQUENCY WAVEFORM (REPLACES CRASHING ACTIVITY GRAPH) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:00E5FF,100:FF007A&height=120&section=footer&animation=twinkling" width="95%" alt="Animated Frequency Wave" />
   
+  <!-- ASCII LIVE TELEMETRY DATA STREAM -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&pause=400&color=00E5FF&center=true&vCenter=true&width=840&height=40&lines=FLUX_CAPACITY:+%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F--+92%25;NEURAL_SYNC:+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D--------+55%25;SIGMA_WAVE:+_.-'~'-._.-'~'-._.-'~'-._;QUANTUM_ENTANGLEMENT:+COHERENCE+LOCKED" alt="ASCII Telemetry" />
 </div>
 
 <br><br>
