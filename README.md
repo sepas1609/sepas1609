@@ -5,10 +5,10 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ HERO BANNER ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Boddu%20Saran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚛️%20Quantum%20%7C%20🧬%20Bio-AI%20%7C%20🔭%20Space%20Systems%20%7C%20🎨%20Creative%20Tech&descAlignY=60&descColor=a0d8ef&descSize=16" width="100%" alt="Header"/>
+  <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/banner.svg" width="100%" alt="Boddu Saran — Quantum · Bio-AI · Space Systems · Creative Tech"/>
 </p>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ PROFILE VIEWS ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ PROFILE VIEWS & STATS ━━━━━━━━━━━━━━ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sepas1609&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views Counter"/>
   &nbsp;
@@ -20,30 +20,38 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ TYPING TAGLINE ━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
   <a href="https://github.com/sepas1609">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Exploring+Quantum+States+%26+Conformational+Landscapes;Pioneering+BioSync-AI+%26+Deep+Phenotyping+Architectures;Forecasting+Solar+Flares+with+Space-Grade+AI+(SOLIS);Crafting+Interactive+Experiments+at+the+Edge+of+Code;Contributing+to+Runtime+Slayers+Research+Org" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&lines=Exploring+Quantum+States+%26+Conformational+Landscapes;Pioneering+BioSync-AI+%26+Deep+Phenotyping+Architectures;Forecasting+Solar+Flares+with+Space-Grade+AI+(SOLIS);Simulating+Communication+Through+Hypersonic+Plasma+Sheaths;Crafting+Interactive+Experiments+at+the+Edge+of+Code;Contributing+to+Runtime+Slayers+Frontier+Research" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ BADGES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ ACADEMIC & RESEARCH BADGES ━━━━━━━━━━━━━ -->
 <p align="center">
+  <a href="https://scholar.google.com/citations?user=NbFFRRwAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Saran-Boddu?ev=prf_overview" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-Saran_Boddu-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+  &nbsp;
+  <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10404516" target="_blank">
+    <img src="https://img.shields.io/badge/SSRN-Boddu_Saran-154881?style=flat-square&logo=elsevier&logoColor=white" alt="SSRN"/>
+  </a>
+  &nbsp;
+  <a href="https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest" target="_blank">
+    <img src="https://img.shields.io/badge/Zenodo-Open_Research-1682D4?style=flat-square&logo=zenodo&logoColor=white" alt="Zenodo"/>
+  </a>
+  &nbsp;
   <a href="https://orcid.org/0009-0006-4010-050X" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0006--4010--050X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   &nbsp;
   <a href="https://github.com/Runtime-Slayers" target="_blank">
-    <img src="https://img.shields.io/badge/Org-Runtime%20Slayers-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Runtime Slayers"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sepas1609?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sepas1609-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sepas1609/SynaestheColor" target="_blank">
-    <img src="https://img.shields.io/badge/Project-SynaestheColor-FF007A?style=flat-square&logoColor=white" alt="SynaestheColor"/>
+    <img src="https://img.shields.io/badge/Org-Runtime_Slayers-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Runtime Slayers"/>
   </a>
   &nbsp;
   <a href="mailto:cb.ai.u4aim24108@cb.students.amrita.edu">
-    <img src="https://img.shields.io/badge/Email-Amrita%20Univ-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Amrita_Univ-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -52,11 +60,11 @@
 ## 🧑‍🚀 `> whoami`
 
 ```python
-class BoddüSaran:
+class BodduSaran:
     name       = "Boddu Saran"
     alias      = "sepas1609"
-    university = "Amrita Vishwa Vidyapeetham  ·  AI & Intelligent Systems"
-    org        = "Runtime Slayers Research Collective  (106+ repos)"
+    university = "Amrita Vishwa Vidyapeetham · AI & Intelligent Systems"
+    org        = "Runtime Slayers Research Collective (106+ repos)"
     focus      = [
         "Quantum Computing · Variational Circuits · State-Vector Analysis",
         "Bio-AI · GNNs · Conformational Landscape & Protein Modelling",
@@ -65,8 +73,9 @@ class BoddüSaran:
         "Wearable Bio-Sensors · Edge AI · Mechatronics",
         "Interactive Web Experiments & Generative Art",
     ]
-    languages  = ["Python", "MATLAB", "C++", "R", "TypeScript", "Julia"]
-    tools      = ["PyTorch", "Qiskit", "OpenCV", "Three.js", "Arduino", "ESP32"]
+    languages  = ["Python", "MATLAB", "C++", "C", "R", "TypeScript", "JavaScript"]
+    frameworks = ["PyTorch", "TensorFlow", "Qiskit", "OpenCV", "Next.js", "Three.js"]
+    hardware   = ["Arduino", "ESP32", "Raspberry Pi", "ROS", "Edge Biosensors"]
     philosophy = "Build things that make people say: 'Wait — how did you DO that?'"
 ```
 
@@ -74,29 +83,30 @@ class BoddüSaran:
 
 ## 🔬 Runtime Slayers Research Contributions
 
-> **[Runtime Slayers](https://github.com/Runtime-Slayers)** — a frontier research collective with 106+ repositories spanning quantum systems, neuro-AI, space technology, and advanced physics modelling.
+> **[Runtime Slayers](https://github.com/Runtime-Slayers)** — an interdisciplinary research collective with 106+ repositories spanning quantum systems, neuro-AI, space technologies, and advanced physics simulations.
 
-| Project | Domain | Role |
-|---------|--------|------|
-| [Quantum Tunneling · Plasma Sheaths](https://github.com/Runtime-Slayers/Quantum-Tunneling-Inspired-Communication-Through-Plasma-Sheaths) | Quantum Communications · Hypersonic Systems | Contributor (4 commits) |
-| [QEMWS Quantum Radar](https://github.com/Runtime-Slayers/quantum-radar) | Quantum Measurement · DefenseNet GNN | Contributor |
-| [TITAN-NET · Aero-Propulsion RUL](https://github.com/Runtime-Slayers/TITAN-NET-Physics-Informed-Spatio-Temporal-Graph-Transformer) | Spatio-Temporal Graph Transformers | Contributor |
+| Project | Domain | Focus & Role |
+|:--------|:-------|:-------------|
+| [Quantum Tunneling · Plasma Sheaths](https://github.com/Runtime-Slayers/Quantum-Tunneling-Inspired-Communication-Through-Plasma-Sheaths) | Hypersonic Communications | Tunneling-inspired RF propagation through reentry plasma blackout |
+| [QEMWS Quantum Radar](https://github.com/Runtime-Slayers/quantum-radar) | Quantum Measurement | Quantum Measurement-discrimination GNN for stealth target detection |
+| [TITAN-NET · Aero-Propulsion RUL](https://github.com/Runtime-Slayers/TITAN-NET-Physics-Informed-Spatio-Temporal-Graph-Transformer) | Aerospace Engineering | Physics-informed spatio-temporal graph transformer for engine RUL |
 
 <details>
-<summary><b>🔭 More Runtime Slayers projects I contribute to…</b></summary>
+<summary><b>🔭 Explore more collaborative research repositories in Runtime Slayers…</b></summary>
+<br/>
 
-| Repository | Description |
-|------------|-------------|
-| [DefenseNet](https://github.com/Runtime-Slayers/DefenseNet) | Military-grade GNN cyber threat detection |
-| [Project Aether · G-NeSAI](https://github.com/Runtime-Slayers/Project-Aether) | Generative Neuro-Symbolic AI for Spectrum Intelligence |
-| [plasma-cpan](https://github.com/Runtime-Slayers/plasma-cpan) | Causal Physics-Aware Network for plasma fusion |
-| [Project Magnetism](https://github.com/Runtime-Slayers/Project_Magnetism) | Advanced Axial-Flux Permanent Magnet Generator simulation |
-| [quantum-chemistry-modelling](https://github.com/Runtime-Slayers/quantum-chemistry-modelling) | VQE · Drug Discovery · Digital Twins |
-| [Space Debris Collision Risk](https://github.com/Runtime-Slayers/Gradient-Boosted-Ensemble-for-Space-Debris-Collision-Risk) | Gradient-boosted ensemble · Kessler Cascade |
-| [Quantum Time Dilation](https://github.com/Runtime-Slayers/quantum-time-dilation-study) | Quantum mechanics · SR-71 time dilation analysis |
-| [Neuroplasticity Calculator](https://github.com/Runtime-Slayers/Neuroplasticity-Calculator-EEG-Alpha-Peak-Frequency) | EEG alpha peak · PhysioNet EEGBCI |
-| [Bose-Einstein Condensate Memory](https://github.com/Runtime-Slayers/Bose-Einstein-Condensate-Memory-Model-Neural-Analogy) | BEC · neural memory analogy modelling |
-| [Thermoacoustic Rocket Engine](https://github.com/Runtime-Slayers/Thermoacoustic-Rocket-Engine-Cooling-Standing-Wave) | Standing wave acoustic cooling · rocket propulsion |
+| Repository | Domain & Research Focus |
+|:-----------|:------------------------|
+| [DefenseNet](https://github.com/Runtime-Slayers/DefenseNet) | Military-grade Graph Neural Network for zero-day cyber threat classification |
+| [Project Aether · G-NeSAI](https://github.com/Runtime-Slayers/Project-Aether) | Generative Neuro-Symbolic AI framework for dynamic RF spectrum intelligence |
+| [plasma-cpan](https://github.com/Runtime-Slayers/plasma-cpan) | Causal Physics-Aware Network for magnetic confinement in plasma fusion |
+| [Project Magnetism](https://github.com/Runtime-Slayers/Project_Magnetism) | Advanced Axial-Flux Permanent Magnet Generator simulation & optimization |
+| [quantum-chemistry-modelling](https://github.com/Runtime-Slayers/quantum-chemistry-modelling) | Variational Quantum Eigensolver (VQE) for molecular ground state estimation |
+| [Space Debris Collision Risk](https://github.com/Runtime-Slayers/Gradient-Boosted-Ensemble-for-Space-Debris-Collision-Risk) | Gradient-boosted orbital ensemble predicting Kessler Cascade proliferation |
+| [Quantum Time Dilation](https://github.com/Runtime-Slayers/quantum-time-dilation-study) | Relativistic quantum mechanics · SR-71 Mach 3+ operational time dilation |
+| [Neuroplasticity Calculator](https://github.com/Runtime-Slayers/Neuroplasticity-Calculator-EEG-Alpha-Peak-Frequency) | Individual Alpha Peak Frequency (iAPF) tracking from 64-channel PhysioNet EEG |
+| [Bose-Einstein Condensate Memory](https://github.com/Runtime-Slayers/Bose-Einstein-Condensate-Memory-Model-Neural-Analogy) | Macroscopic quantum coherence analogy for persistent biological memory |
+| [Thermoacoustic Rocket Cooling](https://github.com/Runtime-Slayers/Thermoacoustic-Rocket-Engine-Cooling-Standing-Wave) | Acoustic standing wave heat dissipation for regenerative rocket nozzles |
 
 </details>
 
@@ -104,45 +114,45 @@ class BoddüSaran:
 
 ## 🎮 Interactive Experiments
 
-> 6 live experiments built from scratch — click any to open:
+> 6 live, zero-dependency experiments built from scratch. Click **Play** or use **Instant Mirror** to launch directly in your browser:
 
-**⚡ Physics & Space**
+### ⚡ Physics & Space Simulations
 
 | 🌌 Cosmic Playground | 🪐 Gravity Sandbox | 🔮 Orbit Visualizer |
 |:---:|:---:|:---:|
-| [![Play](https://img.shields.io/badge/▶_PLAY-00E5FF?style=for-the-badge)](https://sepas1609.github.io/cosmic-playground) | [![Play](https://img.shields.io/badge/▶_PLAY-F59E0B?style=for-the-badge)](https://sepas1609.github.io/gravity-sandbox) | [![Play](https://img.shields.io/badge/▶_PLAY-7C3AED?style=for-the-badge)](https://sepas1609.github.io/orbit-visualizer) |
-| Click to spawn planets · Drag to fling | Drop balls · Switch Earth/Moon/Zero-G/Jupiter | Mouse shapes orbiting pulses with sound |
-| `p5.js` `Canvas` `Gravity` | `Matter.js` `2D Physics` | `Three.js` `Web Audio` |
-| [view code](https://github.com/sepas1609/cosmic-playground) | [view code](https://github.com/sepas1609/gravity-sandbox) | [view code](https://github.com/sepas1609/orbit-visualizer) |
+| [![Play](https://img.shields.io/badge/▶_LAUNCH-00E5FF?style=for-the-badge)](https://sepas1609.github.io/cosmic-playground) | [![Play](https://img.shields.io/badge/▶_LAUNCH-F59E0B?style=for-the-badge)](https://sepas1609.github.io/gravity-sandbox) | [![Play](https://img.shields.io/badge/▶_LAUNCH-7C3AED?style=for-the-badge)](https://sepas1609.github.io/orbit-visualizer) |
+| Click to spawn stars · Drag to fling planets · Gravity wells | Drop balls & obstacles · Switch Earth / Moon / Jupiter / Zero-G | Mouse forms celestial orbital rings with harmonic audio pulses |
+| `p5.js` `Canvas 2D` `N-Body Gravity` | `Matter.js` `Rigid-Body Physics` | `Three.js` `WebGL` `Web Audio API` |
+| [⚡ Instant Mirror](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sepas1609/cosmic-playground/main/index.html) · [Code](https://github.com/sepas1609/cosmic-playground) | [⚡ Instant Mirror](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sepas1609/gravity-sandbox/main/index.html) · [Code](https://github.com/sepas1609/gravity-sandbox) | [⚡ Instant Mirror](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sepas1609/orbit-visualizer/main/index.html) · [Code](https://github.com/sepas1609/orbit-visualizer) |
 
-**🎨 Art & Sound**
+### 🎨 Generative Art & Audio Synthesis
 
 | 🎨🎵 Color Symphony | 🌊 Zen Garden Ripples | 💡 Light Painter |
 |:---:|:---:|:---:|
-| [![Play](https://img.shields.io/badge/▶_PLAY-FF007A?style=for-the-badge)](https://sepas1609.github.io/color-symphony) | [![Play](https://img.shields.io/badge/▶_PLAY-06B6D4?style=for-the-badge)](https://sepas1609.github.io/zen-garden) | [![Play](https://img.shields.io/badge/▶_PLAY-10B981?style=for-the-badge)](https://sepas1609.github.io/light-painter) |
-| Draw trails that play harmonic tones | Tap water · Colors shift gently | Paint glowing long-exposure light art |
-| `Web Audio API` `Canvas` | `WebGL` `Wave Simulation` | `Canvas` `Fade Effects` |
-| [view code](https://github.com/sepas1609/color-symphony) | [view code](https://github.com/sepas1609/zen-garden) | [view code](https://github.com/sepas1609/light-painter) |
+| [![Play](https://img.shields.io/badge/▶_LAUNCH-FF007A?style=for-the-badge)](https://sepas1609.github.io/color-symphony) | [![Play](https://img.shields.io/badge/▶_LAUNCH-06B6D4?style=for-the-badge)](https://sepas1609.github.io/zen-garden) | [![Play](https://img.shields.io/badge/▶_LAUNCH-10B981?style=for-the-badge)](https://sepas1609.github.io/light-painter) |
+| Draw colored trajectories that synthesize pentatonic soundscapes | Tap pond surface to propagate realistic fluid wave interference | Paint long-exposure light trails with neon decay & glow buffers |
+| `Web Audio API` `Polyphonic Synth` | `WebGL` `Shaders` `Wave Equations` | `HTML5 Canvas` `Alpha Decay` |
+| [⚡ Instant Mirror](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sepas1609/color-symphony/main/index.html) · [Code](https://github.com/sepas1609/color-symphony) | [⚡ Instant Mirror](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sepas1609/zen-garden/main/index.html) · [Code](https://github.com/sepas1609/zen-garden) | [⚡ Instant Mirror](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sepas1609/light-painter/main/index.html) · [Code](https://github.com/sepas1609/light-painter) |
 
 ---
 
-## 🛠️ Core Arsenal
-
-<p align="center">
-
-| ⚛️ Quantum | 🧬 Bio-AI | 🔭 Space & Defence | 🎨 Creative Tech |
-|:---:|:---:|:---:|:---:|
-| Qiskit · VQE | PyTorch · GNNs | SOLIS Imagery | Three.js · WebGL |
-| Variational Circuits | Vision Transformers | Quantum Radar | Web Audio API |
-| State Vectors | EEG Signal Proc | Plasma Physics | p5.js · Canvas |
-| Hybrid QC Pipelines | Conformational AI | DefenseNet GNN | Matter.js |
-
-</p>
+## 🛠️ Core Arsenal & Technical Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab,r,ts,postgres,arduino,opencv,linux,latex,docker,git,github&theme=dark&perline=7" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,cpp,c,matlab,r,ts,js,arduino,raspberrypi,linux,ubuntu,bash,nextjs,react,nodejs,fastapi,flask,postgres,mongodb,docker,git,github,vscode,latex,postman&theme=dark&perline=15" alt="30 Core Skills & Technologies"/>
   </a>
+</p>
+
+<p align="center">
+
+| ⚛️ Quantum Systems | 🧬 Bio-AI & Health | 🔭 Space & Defence | ⚡ Hardware & Embedded | 🌐 Web & Systems |
+|:---:|:---:|:---:|:---:|:---:|
+| Qiskit · Cirq | PyTorch · GNNs | SOLIS Space Imagery | ESP32 · Arduino | Next.js · TypeScript |
+| Variational Circuits | Vision Transformers | Quantum Radar | Raspberry Pi · ROS | React · Node.js |
+| State-Vector Analysis | EEG Signal Processing | Plasma Physics | Biosensor Mesh | FastAPI · Flask |
+| Hybrid VQE Pipelines | Deep Phenotyping | Kessler Cascade Risk | Real-Time Telemetry | PostgreSQL · Docker |
+
 </p>
 
 ---
@@ -150,29 +160,42 @@ class BoddüSaran:
 ## 📌 Featured Personal Projects
 
 <p align="center">
-  <a href="https://github.com/sepas1609/SynaestheColor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sepas1609&repo=SynaestheColor&theme=tokyonight&title_color=00E5FF&icon_color=FF007A&border_color=1E1E3E" alt="SynaestheColor"/>
+  <a href="https://github.com/sepas1609/SynaestheColor" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/sepas1609/SynaestheColor" width="100%" alt="SynaestheColor Preview"/>
   </a>
 </p>
 
-> **SynaestheColor** — AI-powered synaesthetic color palette studio. Transforms emotional descriptions into WCAG-certified UI design tokens. `TypeScript` · accessibility-first · 1 ⭐
+<table width="100%">
+<tr>
+<td>
+
+### 🌈 [SynaestheColor](https://github.com/sepas1609/SynaestheColor)
+**AI-Powered Synaesthetic Color Studio & Accessibility Engineering Suite**
+- 🎨 **Emotion-to-Palette Translation**: Neural mapping from sensory & mood descriptors to harmonized color palettes.
+- ♿ **WCAG 2.1 AAA Compliance**: Automated contrast auditing and colorblindness simulation (Deuteranopia, Protanopia, Tritanopia).
+- 📦 **Multi-Format Export**: Production-ready CSS variables, Tailwind configuration, JSON tokens, and Figma-compatible styles.
+- ⚡ **Stack**: `TypeScript` · `Next.js` · `TailwindCSS` · `Color-Theory Algorithms`
+
+[**Explore SynaestheColor on GitHub →**](https://github.com/sepas1609/SynaestheColor)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sepas1609&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=FF007A&border_color=1E1E3E&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=sepas1609&theme=tokyonight&ring=00E5FF&fire=FF007A&currStreakLabel=00E5FF&border=1E1E3E" height="165" alt="Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sepas1609&theme=tokyonight" height="195" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=sepas1609&theme=tokyonight&ring=00E5FF&fire=FF007A&currStreakLabel=00E5FF&border=1E1E3E" height="195" alt="Contribution Streak"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sepas1609&theme=tokyonight" height="195" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepas1609&layout=compact&theme=tokyonight&title_color=00E5FF&border_color=1E1E3E&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sepas1609&theme=tokyonight" width="100%" alt="Contribution Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sepas1609&theme=tokyonight" width="100%" alt="Contribution Graph & Summary"/>
 </p>
 
 ---
@@ -183,44 +206,40 @@ class BoddüSaran:
 <tr>
 <td width="50%" valign="top">
 
-**⚛️ Quantum Track**
-- 🔬 Variational Quantum Circuits for biomolecular simulation
-- 🧮 Quantum state-vector conformational landscape analysis
-- 🌀 Hybrid quantum-classical inference pipelines
-- 📡 Quantum tunneling through hypersonic plasma sheaths
-- 🎯 Quantum radar · measurement discrimination (QEMWS)
+### ⚛️ Quantum Track
+- 🔬 **Variational Quantum Eigensolvers**: Molecular ground state estimation for biomolecules
+- 🧮 **State-Vector Landscapes**: Mapping conformational energy states on quantum manifolds
+- 🌀 **Quantum Blackout Bypass**: Tunneling-inspired RF propagation through hypersonic plasma sheaths
+- 📡 **QEMWS Quantum Radar**: Quantum measurement discrimination for stealth target acquisition
 
 </td>
 <td width="50%" valign="top">
 
-**🧬 Bio-AI Track**
-- 🕸️ Graph Neural Networks for protein interaction modelling
-- 🔭 Solar flare prediction via SOLIS telescope imagery
-- 🩺 EEG biosensor wearables + edge AI phenotype detection
-- 🧠 Neuroplasticity EEG alpha-peak frequency analysis
-- 📐 Bose-Einstein condensate neural memory modelling
+### 🧬 Bio-AI Track
+- 🕸️ **Graph Neural Networks**: Protein-protein interaction graphs and binding affinity prediction
+- 🔭 **Solar Flare Prediction**: Deep learning on space-borne SOLIS chromospheric magnetograms
+- 🩺 **Wearable Biosensing**: 64-channel EEG acquisition, noise reduction, and alpha peak analysis
+- 🧠 **Biological Memory Analogy**: Macroscopic coherence modelling in Bose-Einstein condensates
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🚀 Space & Defence Track**
-- 🛰️ Aero-propulsion Remaining Useful Life (TITAN-NET)
-- 🌌 Space debris collision risk · Kessler cascade modelling
-- 🔒 DefenseNet — military-grade GNN threat intelligence
-- 🌡️ Thermoacoustic rocket engine cooling systems
-- 🌍 G-NeSAI — generative neuro-symbolic spectrum AI
+### 🚀 Space & Defence Systems
+- 🛰️ **TITAN-NET Engine RUL**: Physics-informed spatio-temporal graph transformer architectures
+- 🌌 **Kessler Cascade Risk**: Gradient-boosted orbital debris trajectory and conjunction analysis
+- 🔒 **DefenseNet**: Military-grade GNN threat intelligence and zero-day payload detection
+- 🌡️ **Thermoacoustic Cooling**: Standing wave acoustic refrigeration for rocket nozzles
 
 </td>
 <td width="50%" valign="top">
 
-**🛠️ Hardware & Creative Track**
-- ⚡ ESP32 biosensor mesh networks
-- 🤖 Arduino mechatronics + ROS interfaces
-- 🎨 SynaestheColor — synaesthetic AI color engine
-- 🎮 6 interactive physics experiments (GitHub Pages)
-- 🔮 WebGL + Web Audio generative art
+### 🎨 Creative Technology & Hardware
+- ⚡ **Mesh Biosensors**: Distributed ESP32 node networks with real-time BLE telemetry
+- 🤖 **Mechatronic Interfaces**: ROS node pipelines and precision Arduino motor kinematics
+- 🎨 **SynaestheColor Studio**: Accessible AI color synthesis engine
+- 🔮 **Zero-Dependency WebGL**: Interactive physics simulations & polyphonic audio synthesis
 
 </td>
 </tr>
@@ -228,23 +247,53 @@ class BoddüSaran:
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect & Research Profiles
 
 <p align="center">
+  <b>Academic & Scholarly Networks</b>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=NbFFRRwAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Boddu_Saran-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Saran-Boddu?ev=prf_overview" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-Saran_Boddu-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+  &nbsp;
+  <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10404516" target="_blank">
+    <img src="https://img.shields.io/badge/SSRN-Boddu_Saran-154881?style=for-the-badge&logo=elsevier&logoColor=white" alt="SSRN"/>
+  </a>
+  &nbsp;
+  <a href="https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest" target="_blank">
+    <img src="https://img.shields.io/badge/Zenodo-Open_Research-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
+  </a>
+  &nbsp;
   <a href="https://orcid.org/0009-0006-4010-050X" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-Research%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-0009--0006--4010--050X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Code, Industry & Contact</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saran-boddu-79920b328" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Saran_Boddu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/Runtime-Slayers" target="_blank">
-    <img src="https://img.shields.io/badge/Runtime%20Slayers-Research%20Org-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Runtime Slayers"/>
+    <img src="https://img.shields.io/badge/Runtime_Slayers-Research_Collective-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Runtime Slayers"/>
   </a>
   &nbsp;
   <a href="https://github.com/sepas1609?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+    <img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
   </a>
   &nbsp;
   <a href="mailto:cb.ai.u4aim24108@cb.students.amrita.edu">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Amrita_University-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -256,11 +305,7 @@ class BoddüSaran:
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━ FOOTER WAVE ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <i>"The universe is not only stranger than we suppose, but stranger than we can suppose." — J.B.S. Haldane</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=⚡%20Keep%20Exploring%20·%20Keep%20Synthesizing%20·%20Keep%20Building%20⚡&fontSize=13&fontColor=a0d8ef&fontAlignY=65&animation=twinkling" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/footer.svg" width="100%" alt="Footer"/>
 </p>
