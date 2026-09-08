@@ -307,5 +307,5 @@ class BodduSaran:
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/footer.svg" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/footer.svg?v=3" width="100%" alt="Footer"/>
 </p>
