@@ -1,0 +1,29 @@
+<svg width="1000" height="110" viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070F"/>
+      <stop offset="50%" stop-color="#0F0D2E"/>
+      <stop offset="100%" stop-color="#05070F"/>
+    </linearGradient>
+    <linearGradient id="borderGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FF007A" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#E0E7FF"/>
+      <stop offset="100%" stop-color="#FF007A"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="996" height="106" rx="14" fill="url(#bgGradFooter)" stroke="url(#borderGradFooter)" stroke-width="1.2"/>
+
+  <text x="500" y="45" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="url(#textGrad)" letter-spacing="2">
+    ⚡ KEEP EXPLORING  ·  KEEP SYNTHESIZING  ·  KEEP BUILDING ⚡
+  </text>
+
+  <text x="500" y="78" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-style="italic" fill="#94A3B8">
+    &ldquo;The universe is not only stranger than we suppose, but stranger than we can suppose.&rdquo; &mdash; J.B.S. Haldane
+  </text>
+</svg>
