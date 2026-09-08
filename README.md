@@ -200,6 +200,42 @@ class BodduSaran:
 
 ---
 
+## 🏆 GitHub Achievements & Milestones
+
+<p align="center">
+  <a href="https://github.com/sepas1609?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" alt="YOLO Achievement" title="YOLO — Merged PR without code review"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sepas1609?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark Achievement" title="Pull Shark (x2 Silver) — 17 Merged Pull Requests"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sepas1609?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" alt="Quickdraw Achievement" title="Quickdraw — Closed/Merged PR within 5 minutes"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sepas1609?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="95" alt="Pair Extraordinaire Achievement" title="Pair Extraordinaire — Co-authored commit on merged PR"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sepas1609?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Badges-Unlocked-00E5FF?style=for-the-badge&logo=github&logoColor=white" alt="Official Badges"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/search?q=author%3Asepas1609+type%3Apr+is%3Amerged" target="_blank">
+    <img src="https://img.shields.io/badge/Merged_PRs-17_Merged-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="17 Merged PRs"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sepas1609" target="_blank">
+    <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-FF007A?style=for-the-badge&logo=githubactions&logoColor=white" alt="Active Contributor"/>
+  </a>
+</p>
+
+---
+
 ## 🔬 Current Research Pulse
 
 <table>
