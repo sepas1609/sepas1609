@@ -5,7 +5,7 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━ ASTRAL WYRM FLIGHT CORRIDOR ━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/dragon.svg" width="100%" alt="Emerald and Gravel Wyrm Flight Corridor"/>
+  <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/dragon.gif" width="100%" alt="Emerald and Gravel Wyrm Flight Corridor"/>
 </p>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ HERO BANNER ━━━━━━━━━━━━━━━━━━━━━━━━ -->
