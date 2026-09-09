@@ -2,16 +2,17 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Run once every 24 hours at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
+
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
