@@ -198,6 +198,14 @@ class BodduSaran:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sepas1609&theme=tokyonight" width="100%" alt="Contribution Graph & Summary"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sepas1609/sepas1609/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sepas1609/sepas1609/output/github-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sepas1609/sepas1609/output/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
 ---
 
 ## 🏆 GitHub Achievements & Milestones
