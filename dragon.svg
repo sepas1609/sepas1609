@@ -78,25 +78,25 @@
 
   <style>
   <![CDATA[
-    /* Flight path traversal across 1200px screen corridor (with generous vertical clearance) */
+    /* Flight path traversal across 1200px screen corridor (minimal offscreen idle time) */
     @keyframes dragonTraverse {
       0% {
-        transform: translate(-260px, 150px) rotate(-3deg);
+        transform: translate(-180px, 145px) rotate(-3deg);
       }
       20% {
-        transform: translate(110px, 135px) rotate(4deg);
+        transform: translate(120px, 132px) rotate(4deg);
       }
       45% {
-        transform: translate(460px, 162px) rotate(-4deg);
+        transform: translate(480px, 160px) rotate(-4deg);
       }
       70% {
-        transform: translate(800px, 132px) rotate(3deg);
+        transform: translate(840px, 130px) rotate(3deg);
       }
-      90% {
-        transform: translate(1060px, 148px) rotate(-1deg);
+      92% {
+        transform: translate(1140px, 145px) rotate(-1deg);
       }
       100% {
-        transform: translate(1340px, 150px) rotate(-3deg);
+        transform: translate(1280px, 148px) rotate(-3deg);
       }
     }
 
