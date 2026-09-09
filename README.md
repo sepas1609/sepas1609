@@ -3,6 +3,11 @@
 <!-- ║   Quantum · Bio-AI · Space Systems · Creative Tech          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
+<!-- ━━━━━━━━━━━━━━━━━━ ASTRAL WYRM FLIGHT CORRIDOR ━━━━━━━━━━━━━━━━━━ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/dragon.svg" width="100%" alt="Emerald and Gravel Wyrm Flight Corridor"/>
+</p>
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ HERO BANNER ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sepas1609/sepas1609/main/banner.svg" width="100%" alt="Boddu Saran — Quantum · Bio-AI · Space Systems · Creative Tech"/>
